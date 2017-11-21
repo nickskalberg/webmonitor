@@ -4,11 +4,11 @@ Python program for monitoring web pages.
 
 # Instructions
 
-1) Download and extract the the zip file to your Desktop.
+1) Download and extract the the zip file.
 
-2) Run the file "webmonitor.cmd"
+2) Once extracted, run the file "webmonitor.cmd".
 
-3) To run the program, type "webmonitor.py".
+3) Once the command prompt is open, type "webmonitor.py" to run the program.
 
 4) Once the program is running, it will prompt you with "Website: http://". Type your desired web address (be sure to include "www." or any other prefix when necessary).
 
