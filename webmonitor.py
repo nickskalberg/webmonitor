@@ -37,5 +37,6 @@ def check():
 		data = webUrl.read()
 		if data != startdata:
 			print "Change made at " + datetime.datetime.now().strftime("%m-%d-%Y %I:%M:%S %p")
+			startdata = data
 
 check()
